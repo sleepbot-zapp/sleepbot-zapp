@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, I'm Sio
 
-<!--
-**sleepbot-zapp/sleepbot-zapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Student and a Developer
 
-Here are some ideas to get you started:
+### Languages I Know:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ui>
+  <li>Python</li>
+  <li>HTML/CSS</li>
+  <li>Javascript</li>
+  <li>Typescript</li>
+  <li>Rust</li>
+</ul>
+
+# My stats
+
+![Zapp's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleepbot-zapp&count_private=true&show_icons=true&theme=radical)
+
+# Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepbot-zapp&layout=compact)](https://github.com/sleepbot-zapp/github-readme-stats)
