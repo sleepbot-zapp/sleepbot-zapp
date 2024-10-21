@@ -12,10 +12,6 @@
   <li>Rust</li>
 </ul>
 
-# My stats
-
-![Zapp's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleepbot-zapp&count_private=true&show_icons=true&theme=radical)
-
 # Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepbot-zapp&layout=compact)](https://github.com/sleepbot-zapp/github-readme-stats)
